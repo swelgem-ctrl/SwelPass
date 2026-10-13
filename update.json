@@ -1,0 +1,13 @@
+{
+  "version": "1.0.2",
+  "versionCode": 102,
+  "releaseDate": "2026-10-13",
+  "downloadUrl": "https://github.com/YOUR_USERNAME/SwelPass/releases/latest",
+  "changelog": [
+    "v1.0.2: Password options vertical layout",
+    "Close-to-tray checkbox (menu)",
+    "Exit button on main window",
+    "Tray icon from EXE (fixed generic icon)"
+  ],
+  "minVersion": "1.0.0"
+}
