@@ -2,7 +2,7 @@
   "version": "1.0.2",
   "versionCode": 102,
   "releaseDate": "2026-10-13",
-  "downloadUrl": "https://github.com/YOUR_USERNAME/SwelPass/releases/latest",
+  "downloadUrl": "https://github.com/swelgem-ctrl/SwelPass/releases/latest",
   "changelog": [
     "v1.0.2: Password options vertical layout",
     "Close-to-tray checkbox (menu)",
